@@ -46,6 +46,14 @@ This script performs the following steps:
 - Approves the Uniswap router to spend both USDC and DAI on behalf of the account.
 - Adds liquidity to the USDC-DAI pool using Uniswap's `addLiquidity` function.
 - Prints account balances before and after adding liquidity.
+
+## Screenshots
+
+### interaction with adding liquidity
+<img src="https://github.com/pope-h/Uniswap_Fork_Test/blob/da13801d7437e77e974ad420fe0a8d2ce721a4e6/InteractionImages/addLiquidity.png">
+
+### interaction with tokensForTokensSupportingFeeOnTransferTokens
+<img src="https://github.com/pope-h/Uniswap_Fork_Test/blob/da13801d7437e77e974ad420fe0a8d2ce721a4e6/InteractionImages/tokensForTokensSupportingFeeOnTransferTokens.png">
 */
 
 // Configuration
